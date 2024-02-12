@@ -47,9 +47,6 @@ function generatePassword() {
     password += allCharacters[randomIndex];
   }
 
-  // window.prompt
-  // window.confirm
-
   return password; // return generated password
 }
 
