@@ -20,6 +20,9 @@ Once all prompts are answered, a unique password will be generated and displayed
 ![image](https://github.com/UmmulColumbia/UniquePasswordGeneration/assets/156148729/4a97baf3-9068-4389-bd6e-8bbdf5d5cbe2)
 ![image](https://github.com/UmmulColumbia/UniquePasswordGeneration/assets/156148729/80c9c276-e745-4ea0-b08e-74762c5d4a0c)
 
+## Github live
+https://ummulcolumbia.github.io/UniquePasswordGeneration/
+
 
 ## Credits
 This project was created by Ummul Mukta as a demonstration of JavaScript programming skills.
